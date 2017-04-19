@@ -6,5 +6,5 @@ p.intro{
   font-style: italic;
 }
 img.intro{
-  caption-side: bottom;
-}
+   align-self: center;
+  }
